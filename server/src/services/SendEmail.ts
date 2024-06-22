@@ -1,3 +1,4 @@
+//src/services/SendEmail.ts
 import nodemailer, { SendMailOptions, SentMessageInfo } from 'nodemailer';
 
 // Define the structure of parameters for sending an email
